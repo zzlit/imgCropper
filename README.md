@@ -1,24 +1,8 @@
 # imgcropper
 
-## Project setup
-```
-npm install
-```
+vue下使用[cropperjs](https://github.com/fengyuanchen/cropperjs#methods)写的一个demo
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+还有待完善
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+参考：
+[vue-cropper](https://github.com/xyxiao001/vue-cropper.git)
