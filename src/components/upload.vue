@@ -69,6 +69,8 @@ export default {
       })
     },
     filesAdded (up, files) {
+      // moxie api: https://github.com/moxiecode/moxie/wiki/API
+      // https://github.com/moxiecode/plupload/issues/1469#issuecomment-320438490
       const moxie = plupload.moxie
       const file = files[0]
 
